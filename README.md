@@ -16,7 +16,7 @@ Team Members:
 - Meetaxar Duhan - 2023UCS1529 - @USERNAME
 
 ## Project Links
-- SIH Presentation: [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- SIH Presentation: https://docs.google.com/presentation/d/1n33r4PFSa3RzDKv2Sw1818Sddb-JCXN9/edit?usp=sharing&ouid=108102611168444802178&rtpof=true&sd=true
 - Video Demonstration: [Watch Video](UNLISTED YOUTUBE LINK)
 - Live Deployment: https://krishi-sewak.vercel.app/
 - Source Code: [GitHub Repository](GITHUB LINK TO THE REPO)
